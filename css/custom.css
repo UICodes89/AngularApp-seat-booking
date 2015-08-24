@@ -1,0 +1,18 @@
+.container{background:#f4f4f4;color:#000;text-align:left;}
+.container h2{text-decoration:underline;margin-bottom:20px;}
+.container .center{text-align:center;}
+.container .booking{margin-bottom:40px;}
+.btn.btn-default{ margin: 40px 40% 20px;}
+.container  .seats ul{margin:0px;padding:0px;}
+.container  .seats ul li{list-style:none;padding:0px;cursor:pointer;margin:0px;background:url("../images/sprite.png") no-repeat scroll 0px 0px;padding:5px;}
+.container  .seats ul li a{margin-right: 5px;padding: 3px 12px;background:#fff;}
+.container  .seats ul li a.success{background-color:#4cae4c;}
+.container  .seats ul li a.booked{background-color:#d43f3a;}
+.container .seat-status ul{margin:0px;padding:0px;}
+.container .seat-status ul li{margin:0px;padding:8px; list-style:none;}
+.container .seat-status ul li span{padding:3px 10px 3px;margin-right:5px;}
+.container .list{margin-top:50px;}
+.container .booking label{padding-top:8px;}
+.container .verIndex{color: #9a9a9a;padding: 6px;}
+.container .horizontalList, .middle ul li, .middle2 ul li {text-align:center; color: #9a9a9a; }
+.middle2 ul li a{margin-right:-5px !important;}
